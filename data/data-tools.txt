@@ -1,0 +1,2 @@
+
+https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2
